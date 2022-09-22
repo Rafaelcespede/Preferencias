@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea</string>
+    <string name="buscar">buscar</string>
+    <string name="registrar">Registrar</string>
+    <string name="producto">Producto</string>
+    <string name="precio">Precio</string>
+    <string name="c_digo">Código</string>
+    <string name="stock">Stock</string>
+</resources>
